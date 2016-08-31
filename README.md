@@ -2,7 +2,7 @@
 react multistep form component using webpack bundler
 
 # Responsive ReactJS multi step form component
-## React 15.3.1 - Babel 6.5.0 - Browserify 13.1.1 
+## React 15.3.1 - Babel 6.5.0 - WebPack 1.13.2 
 
 ###(Browserify version is here: https://github.com/Srdjan/react-multistep)
 
