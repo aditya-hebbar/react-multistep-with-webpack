@@ -8,11 +8,11 @@
 [![MIT License](https://img.shields.io/npm/l/npm-install-loader.svg)](http://opensource.org/licenses/MIT)
 
 
+=========================================
 
--------------
 <img src="https://dl.dropboxusercontent.com/u/51491957/multistep-v2.1.1/react-multistep.png"/>
--------------
 
+=========================================
 
 [Working demo](https://dl.dropboxusercontent.com/u/51491957/multistep-v2.1.1/index.html)
 
