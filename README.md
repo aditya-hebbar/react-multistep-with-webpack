@@ -27,9 +27,9 @@ To install this module run:
 ```sh
 npm install react-multistep
 ```
-next, require it inside of your app:
+next, import it inside of your app:
 ```sh
-var Multistep = require('react-multistep').Multistep
+import Multistep from './multistep'
 ```
 ### Configuration:
 ```
